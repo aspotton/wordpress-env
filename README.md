@@ -12,6 +12,8 @@ You can clone this repository and use it to store your WordPress content files d
 docker-compose up
 ```
 
+The interface can be accessed at: `http://localhost:8000`
+
 For customizations options, see below.
 
 ## Data Persistence
