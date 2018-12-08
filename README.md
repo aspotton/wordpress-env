@@ -6,6 +6,14 @@ You can clone this repository and use it to store your WordPress content files d
 
 *** NOTE *** There are no themes or plugins installed when first run. You will need to install at a theme after the initial run to be useful.
 
+## Usage
+
+```
+docker-compose up
+```
+
+For customizations options, see below.
+
 ## Data Persistence
 
  * WordPress
