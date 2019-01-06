@@ -6,6 +6,9 @@ You can clone this repository and use it to store your WordPress content files d
 
 *** NOTE *** There are no themes or plugins installed when first run. You will need to install at a theme after the initial run to be useful.
 
+[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+[![License](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE)
+
 ## Usage
 
 ```
